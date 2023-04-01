@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 giorgi cudia
+tako kargia
+
+=======
+>>>>>>> test-b
